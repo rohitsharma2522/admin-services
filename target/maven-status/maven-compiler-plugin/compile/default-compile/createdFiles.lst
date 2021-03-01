@@ -1,0 +1,11 @@
+com\nagarro\admin\services\impl\AdminServicesImpl.class
+com\nagarro\admin\entities\Address.class
+com\nagarro\admin\entities\Users.class
+com\nagarro\admin\entities\BookService.class
+com\nagarro\admin\entities\ServiceProviderEntity.class
+com\nagarro\admin\constants\BookingStatus.class
+com\nagarro\admin\controller\AdminController.class
+com\nagarro\admin\services\AdminServices.class
+com\nagarro\admin\AdminApplication.class
+com\nagarro\admin\entities\UserService.class
+com\nagarro\admin\entities\ProviderDetailsWithBooking.class
