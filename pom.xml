@@ -52,10 +52,9 @@
 			<groupId>com.fasterxml.jackson.datatype</groupId>
 			<artifactId>jackson-datatype-jsr310</artifactId>
 		</dependency>
-		<!-- https://mvnrepository.com/artifact/io.opentracing.contrib/opentracing-spring-jaeger-starter -->
 		<dependency>
 			<groupId>io.opentracing.contrib</groupId>
-			<artifactId>opentracing-spring-jaeger-starter</artifactId>
+			<artifactId>opentracing-spring-jaeger-web-starter</artifactId>
 			<version>1.0.3</version>
 		</dependency>
 
